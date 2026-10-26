@@ -12,7 +12,7 @@ export default function Header() {
   return (
     <header className="header">
       <nav className="nav container">
-        <a href="#top" className="logo">Portfolio</a>
+        <a href="#top" className="logo">Nethaji K</a>
 
         <button
           className="menu-toggle"
